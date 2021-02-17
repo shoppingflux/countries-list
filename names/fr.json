@@ -970,9 +970,9 @@
     "flag": "ro.png"
   },
   {
-    "code": "UK",
+    "code": "GB",
     "name": "royaume-uni",
-    "flag": "uk.png"
+    "flag": "gb.png"
   },
   {
     "code": "RW",
